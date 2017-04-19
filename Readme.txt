@@ -1,11 +1,11 @@
 US-POLYMATH KEYBOARD LAYOUT FOR WINDOWS
 
-This is a fairly-general purpose keyboard meant to facilitate 
-typing texts containing math symbols, especially those commonly 
-used in logic, set theory, and number theory. The most frequently 
-used Greek letters are included. Also included are quite a few 
-"combining diacritical marks" to type "extended characters" of 
-Latin script.
+This is a fairly general-purpose keyboard meant to facilitate 
+typing technical as well as literary texts. It provides several 
+math symbols, especially those commonly used in logic, set theory, 
+and number theory, and the most frequently used Greek letters. 
+It also includes a variety of "combining diacritical marks" to 
+type "extended characters" of Latin script.
 
 The currently available keyboard layouts provide one of two 
 alternative methods (sometimes a bit of each) to compose an
