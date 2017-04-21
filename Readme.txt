@@ -27,7 +27,7 @@ the application receiving the text and the font used. In my own
 limited experimentation, the combination LibreOffice + STIX fonts 
 has worked out the best.
 
-The file "US-PolymathKeyboardWin.pdf" (in the "distrib" directory
+The file "US-PolymathKeyboardWinLnx.pdf" (in the "distrib" directory
 below) is a printable one-page keyboard map for reference.
 
 
@@ -43,9 +43,9 @@ Creator" produces an application to install the keyboard layout.
 This installer is a set of directories and files, including a 
 setup.exe file.  
 
-- TeX source file US-PolymathKeyboardWin.tex. It should be 
+- TeX source file US-PolymathKeyboardWinLnx.tex. It should be 
 processed by the XeLaTeX engine to produce the keymap picture 
-US-PolymathKeyboardWin.pdf.
+US-PolymathKeyboardWinLnx.pdf.
 
 
 2. distrib
@@ -53,7 +53,7 @@ US-PolymathKeyboardWin.pdf.
 - This directory contains the files needed for installing the 
 US-Polymath Keyboard Layout on a Windows computer. It also includes 
 a file "readme-win.txt" with some installation instructions and a 
-file "US-PolymathWin.pdf" as a convenient one-page keyboard map. 
+file "US-PolymathWinLnx.pdf" as a convenient one-page keyboard map. 
 
 - A zip of the files in this directory is a convenient way to 
 distribute the layout. Such a zip file is downloadable from 
