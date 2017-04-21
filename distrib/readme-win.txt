@@ -1,7 +1,7 @@
 ﻿Brief Instructions for Installing the US-Polymath Keyboard Layout
 
 
-A. "US-PolymathKeyboardWin.pdf" is a compact one-page keyboard 
+A. "US-PolymathKeyboardWinLnx.pdf" is a compact one-page keyboard 
 map. Print a copy for reference, and save this file on the Desktop 
 or in some folder where you can find it easily.
 
