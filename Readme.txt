@@ -53,7 +53,8 @@ US-PolymathKeyboardWinLnx.pdf.
 - This directory contains the files needed for installing the 
 US-Polymath Keyboard Layout on a Windows computer. It also includes 
 a file "readme-win.txt" with some installation instructions and a 
-file "US-PolymathWinLnx.pdf" as a convenient one-page keyboard map. 
+file "US-PolymathKeyboardWinLnx.pdf" as a convenient one-page 
+keyboard map. 
 
 - A zip of the files in this directory is a convenient way to 
 distribute the layout. Such a zip file is downloadable from 
